@@ -65,15 +65,16 @@ export function Intro() {
                 At Simply Hair, we understand that true beauty stems from
                 choices that resonate with your inner self. Our curated range of
                 clean beauty products marries luxury with integrity, ensuring
-                you don't compromise on either. We're not just about outer
-                appearances; we're about healing and empowerment from within.
-                Dive into the transformative journey of self-care with us.
+                you don&apos;t compromise on either. We&apos;re not just about
+                outer appearances; we&apos;re about healing and empowerment from
+                within. Dive into the transformative journey of self-care with
+                us.
               </p>
               <p className="mt-4">
-                Experience unparalleled haircare at Simply Hair, Phoenix's
-                premier salon. Our comprehensive services are crafted to cater
-                to every hair need, ensuring you step out not just looking, but
-                feeling your absolute best.
+                Experience unparalleled haircare at Simply Hair,
+                Phoenix&apos;apos;s premier salon. Our comprehensive services
+                are crafted to cater to every hair need, ensuring you step out
+                not just looking, but feeling your absolute best.
               </p>
               <ul role="list" className="mt-8 space-y-8 text-gray-600">
                 <li className="flex gap-x-3">
@@ -84,7 +85,8 @@ export function Intro() {
                     We tailor cuts and styles to accentuate your individuality,
                     complemented by a complimentary blowout. From transformative
                     perms and sleek straightening to event-ready updos, our
-                    range ensures you're always looking and feeling your best.
+                    range ensures you&apos;re always looking and feeling your
+                    best.
                   </span>
                 </li>
                 <li className="flex gap-x-3">
@@ -96,10 +98,10 @@ export function Intro() {
                     experience, ensuring your desired look is achieved and
                     maintained. From uniform single process colors to
                     transformative double processes, enhancing glossing
-                    treatments, and precise foiling techniques, we've got you
-                    covered. For those seeking color corrections or a finishing
-                    touch with an after-color blow-dry, our team is here to
-                    ensure perfection.
+                    treatments, and precise foiling techniques, we&apos;ve got
+                    you covered. For those seeking color corrections or a
+                    finishing touch with an after-color blow-dry, our team is
+                    here to ensure perfection.
                   </span>
                 </li>
                 <li className="flex gap-x-3">
@@ -108,12 +110,12 @@ export function Intro() {
                       Treatments.
                     </strong>{" "}
                     We offer a diverse range of premium treatments, from
-                    Rikoko's natural, color-locking solutions and Kerasilk's
-                    transformative perms to Keratin Complex's bond-preserving
-                    smoothing treatments. Dive into the revolutionary Olaplex
-                    process for hair restoration, or opt for the customizable
-                    and immediate-results-driven Brazilian Blowout for up to 12
-                    weeks of effortless styling.
+                    Rikoko&apos;s natural, color-locking solutions and
+                    Kerasilk&apos;s transformative perms to Keratin
+                    Complex&apos;s bond-preserving smoothing treatments. Dive
+                    into the revolutionary Olaplex process for hair restoration,
+                    or opt for the customizable and immediate-results-driven
+                    Brazilian Blowout for up to 12 weeks of effortless styling.
                   </span>
                 </li>
                 <li className="flex gap-x-3">
@@ -124,9 +126,9 @@ export function Intro() {
                     We specialize in making wedding days unforgettable. Our
                     dedicated team offers tailored hair designs for both the
                     bride and groom, ensuring every look is as unique as their
-                    love story. From traditional updos to modern styles, we've
-                    got the bride covered, while the groom can expect a
-                    polished, impeccable finish. We also cater to the entire
+                    love story. From traditional updos to modern styles,
+                    we&apos;ve got the bride covered, while the groom can expect
+                    a polished, impeccable finish. We also cater to the entire
                     bridal party, ensuring cohesive and stunning looks.
                   </span>
                 </li>
@@ -137,9 +139,9 @@ export function Intro() {
                     </strong>{" "}
                     Our makeup specialists are attuned to the latest trends and
                     colors, ensuring you shine in any setting, be it a date, a
-                    girls' night out, or an important meeting. Let us enhance
-                    your natural beauty with our expert touch and share some of
-                    our favorite beauty secrets along the way.
+                    girls&apos; night out, or an important meeting. Let us
+                    enhance your natural beauty with our expert touch and share
+                    some of our favorite beauty secrets along the way.
                   </span>
                 </li>
               </ul>
@@ -153,9 +155,9 @@ export function Intro() {
                 community. Beyond providing exceptional hair and beauty
                 services, we strive to create a space where everyone feels
                 welcomed, valued, and heard. Our salon is more than just a place
-                to get a haircut or makeup session; it's a sanctuary where
+                to get a haircut or makeup session; it&apos;s a sanctuary where
                 relationships are nurtured, stories are shared, and
-                transformations go beyond the physical. We're proud to be a
+                transformations go beyond the physical. We&apos;re proud to be a
                 cornerstone in Phoenix, and we invite you to join our Simply
                 Hair family, where every visit is a celebration of beauty,
                 inside and out.

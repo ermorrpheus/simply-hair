@@ -10,8 +10,8 @@ export default function NotFound() {
           Hair Today, Gone Tomorrow!
         </h2>
         <p className="max-w-md text-center text-lg lg:text-xl">
-          Oops! Looks like the page you're searching for has had a little trim.
-          But don't worry, our stylists are on it!
+          Oops! Looks like the page you&apos;re searching for has had a little
+          trim. But don&apos;t worry, our stylists are on it!
         </p>
         <Link
           href="/"

@@ -28,8 +28,8 @@ export default function Services() {
               From tailored trims to radiant color transformations, our expert
               stylists are here to craft your ideal look. Dive into our curated
               offerings, each designed with precision, passion, and a touch of
-              Phoenix flair. Let's embark on your hair's next beautiful journey
-              together.
+              Phoenix flair. Let&apos;s embark on your hair&apos;s next
+              beautiful journey together.
             </p>
           </div>
         </div>
@@ -46,11 +46,11 @@ export default function Services() {
                   <strong className="block font-semibold text-gray-900">
                     Cut & Style
                   </strong>
-                  Whether you're after a chic bob, a daring asymmetrical, or a
-                  classic straight cut, our team at Simply Hair crafts styles
-                  that truly reflect your essence. Every haircut is paired with
-                  a complimentary blowout, ensuring you step out with a flawless
-                  finish.
+                  Whether you&apos;re after a chic bob, a daring asymmetrical,
+                  or a classic straight cut, our team at Simply Hair crafts
+                  styles that truly reflect your essence. Every haircut is
+                  paired with a complimentary blowout, ensuring you step out
+                  with a flawless finish.
                 </span>
               </li>
               <li className="flex gap-x-3 pb-3">
@@ -60,7 +60,7 @@ export default function Services() {
                   </strong>{" "}
                   Be it a gala event or a casual get-together, our range of
                   blowouts and sets are tailored to suit the occasion. From
-                  elegant finger-waves to sleek blowouts, we've got the
+                  elegant finger-waves to sleek blowouts, we&apos;ve got the
                   expertise to elevate your look.
                 </span>
               </li>
@@ -90,9 +90,9 @@ export default function Services() {
                     Glamorous Updos
                   </strong>{" "}
                   For those special moments when you want to stand out, our
-                  updos are the answer. Whether it's a grand wedding or a night
-                  out, we'll sculpt your hair into a masterpiece fit for the
-                  occasion.
+                  updos are the answer. Whether it&apos;s a grand wedding or a
+                  night out, we&apos;ll sculpt your hair into a masterpiece fit
+                  for the occasion.
                 </span>
               </li>
             </ul>
@@ -113,9 +113,9 @@ export default function Services() {
                     Single Process
                   </strong>
                   Achieve a uniform and vibrant hue tailored to your hair type
-                  with our single process color. Whether you're seeking a
-                  lasting change or a temporary transformation, we've got you
-                  covered.
+                  with our single process color. Whether you&apos;re seeking a
+                  lasting change or a temporary transformation, we&apos;apos;ve
+                  got you covered.
                 </span>
               </li>
               <li className="flex gap-x-3 pb-3">
@@ -144,9 +144,9 @@ export default function Services() {
                     Partial Foil
                   </strong>{" "}
                   Illuminate your look with our partial foil technique. Starting
-                  from the hairline and reaching mid-head, it's perfect for
-                  those who prefer their hair down and desire a touch of depth
-                  and dimension.
+                  from the hairline and reaching mid-head, it&apos;apos;s
+                  perfect for those who prefer their hair down and desire a
+                  touch of depth and dimension.
                 </span>
               </li>
               <li className="flex gap-x-3 pb-3">
@@ -165,10 +165,11 @@ export default function Services() {
                   <strong className="block font-semibold text-gray-900">
                     Corrective Color
                   </strong>{" "}
-                  Mistakes happen, but we're here to set things right. If a
-                  previous color treatment didn't go as planned, our corrective
-                  color service is tailored to bring back your hair's original
-                  charm. Consult with us for the best approach.
+                  Mistakes happen, but we&apos;re here to set things right. If a
+                  previous color treatment didn&apos;t go as planned, our
+                  corrective color service is tailored to bring back
+                  your&apos&apos; hair&apos;s original charm. Consult with us
+                  for the best approach.
                 </span>
               </li>
               <li className="flex gap-x-3 pb-3">
@@ -227,7 +228,7 @@ export default function Services() {
                   taps into the strength of keratin for unmatched smoothing
                   without compromising hair bonds. With our patented formula,
                   including a special variant for blonde hair, and the Express
-                  Blow OutTM, we've set a new standard in haircare.
+                  Blow OutTM, we&apos;ve set a new standard in haircare.
                 </span>
               </li>
               <li className="flex gap-x-3 pb-3">
@@ -238,7 +239,8 @@ export default function Services() {
                   Venture into deep restoration with Olaplex. Our unique
                   three-step process targets and mends broken hair bonds caused
                   by various damages. Especially beneficial for over-highlighted
-                  hair, Olaplex rejuvenates, strengthening your hair's core.
+                  hair, Olaplex rejuvenates, strengthening your hair&apos;s
+                  core.
                 </span>
               </li>
               <li className="flex gap-x-3 pb-3">
@@ -270,24 +272,24 @@ export default function Services() {
                   <strong className="block font-semibold text-gray-900">
                     Bridal Elegance: Hair & Makeup
                   </strong>
-                  For the bride, every detail matters. At Simply Hair, we're
-                  dedicated to ensuring your hair mirrors the significance of
-                  your special day. Whether you envision a classic updo or a
-                  modern, breezy style, our experts will craft a look that
-                  harmonizes with your wedding theme and personal flair.
-                  Schedule a consultation or a trial updo to explore and
+                  For the bride, every detail matters. At Simply Hair,
+                  we&apos;re dedicated to ensuring your hair mirrors the
+                  significance of your special day. Whether you envision a
+                  classic updo or a modern, breezy style, our experts will craft
+                  a look that harmonizes with your wedding theme and personal
+                  flair. Schedule a consultation or a trial updo to explore and
                   finalize your dream hairstyle.
                 </span>
               </li>
               <li className="flex gap-x-3 pb-3">
                 <span className="text-sm leading-7 text-gray-700 md:text-base">
                   <strong className="block font-semibold text-gray-900">
-                    Groom's Grooming
+                    Groom&apos;s Grooming
                   </strong>{" "}
-                  The groom's appearance is equally paramount. Our stylists are
-                  committed to delivering a polished, distinguished look that
-                  aligns with your personal style, ensuring you stand out on
-                  your big day.
+                  The groom&apos;s appearance is equally paramount. Our stylists
+                  are committed to delivering a polished, distinguished look
+                  that aligns with your personal style, ensuring you stand out
+                  on your big day.
                 </span>
               </li>
               <li className="flex gap-x-3 pb-3">
@@ -317,10 +319,10 @@ export default function Services() {
                   <strong className="block font-semibold text-gray-900">
                     Makeup Mastery
                   </strong>{" "}
-                  A bride's glow is accentuated with the right makeup. Our
+                  A bride&apos;s glow is accentuated with the right makeup. Our
                   artists focus on enhancing your natural beauty, ensuring a
-                  radiant look that's camera-ready and synchronizes with your
-                  attire. Consider a pre-wedding makeup trial to fine-tune
+                  radiant look that&apos;s camera-ready and synchronizes with
+                  your attire. Consider a pre-wedding makeup trial to fine-tune
                   shades, techniques, and overall style.
                 </span>
               </li>
@@ -341,8 +343,8 @@ export default function Services() {
                   <strong className="block font-semibold text-gray-900">
                     Makeup Mastery for Every Occasion
                   </strong>
-                  Whether it's a romantic date, a night out with friends, or a
-                  pivotal business meeting, our makeup artists are here to
+                  Whether it&apos;s a romantic date, a night out with friends,
+                  or a pivotal business meeting, our makeup artists are here to
                   ensure you shine. Drawing from the latest in beauty trends and
                   with a keen eye for detail, we craft looks that not only turn
                   heads but also resonate with your unique charm.

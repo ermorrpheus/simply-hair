@@ -22,13 +22,13 @@ export default function Contact() {
               <h2
                 className={`${playfair.className} mb-4 mt-2 text-2xl font-bold tracking-tight text-gray-900 sm:text-4xl`}
               >
-                We'd love to hear from you!
+                We&apos;d love to hear from you!
               </h2>
               <p className="text-sm leading-7 text-gray-700 md:text-base">
                 Whether you have questions about our services, want to schedule
                 an appointment, or simply wish to share feedback, our team is
-                here to assist. Reach out to Simply Hair today and let's embark
-                on your beauty journey together.
+                here to assist. Reach out to Simply Hair today and let&apos;s
+                embark on your beauty journey together.
               </p>
             </div>
 

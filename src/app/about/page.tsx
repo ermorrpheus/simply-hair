@@ -36,11 +36,11 @@ export default function About() {
                 <p className="text-sm leading-7 text-gray-700 md:text-base">
                   Founded in 2010 in the heart of Phoenix, Simply Hair began as
                   a dream to offer a unique salon experience. Over the years,
-                  we've grown from a modest two-chair salon to a bustling hub of
-                  beauty and creativity, all while maintaining our commitment to
-                  personalized service. Our journey has been shaped by the
-                  vibrant Phoenix community, and we're proud to be a local
-                  favorite.
+                  we&apos;ve grown from a modest two-chair salon to a bustling
+                  hub of beauty and creativity, all while maintaining our
+                  commitment to personalized service. Our journey has been
+                  shaped by the vibrant Phoenix community, and we&apos;re proud
+                  to be a local favorite.
                 </p>
               </div>
             </div>
@@ -66,8 +66,8 @@ export default function About() {
                   process. Our mission is to empower individuals to feel
                   confident and radiant, not just in their appearance but in
                   their very essence. We aim to provide unparalleled haircare
-                  and beauty services that resonate with each client's unique
-                  personality and style.
+                  and beauty services that resonate with each client&apos;s
+                  unique personality and style.
                 </p>
                 <h2
                   className={`${playfair.className} mb-4 mt-8 text-2xl font-bold tracking-tight text-gray-900 sm:text-4xl`}
@@ -142,8 +142,8 @@ export default function About() {
                   </li>
                 </ul>
                 <p className="mt-6 font-bold">
-                  At Simply Hair, every strand tells a story, and we're here to
-                  help you tell yours.
+                  At Simply Hair, every strand tells a story, and we&apos;re
+                  here to help you tell yours.
                 </p>
               </div>
             </div>

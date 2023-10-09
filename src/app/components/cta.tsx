@@ -18,10 +18,10 @@ export function CTA() {
           <p className="mt-6 max-w-lg text-sm text-white/90 md:block md:text-base md:leading-relaxed">
             Dive into the world of Simply Hair with our exclusive "Hair
             Clipping" newsletter. From the latest styling trends and haircare
-            tips to special promotions and salon events, we've got you covered.
-            Stay ahead of the curve and let beauty insights come straight to
-            your inbox. Sign up now and be part of our vibrant community. Your
-            hair will thank you!
+            tips to special promotions and salon events, we&apos;ve got you
+            covered. Stay ahead of the curve and let beauty insights come
+            straight to your inbox. Sign up now and be part of our vibrant
+            community. Your hair will thank you!
           </p>
 
           <div className="mt-8 max-w-xl">

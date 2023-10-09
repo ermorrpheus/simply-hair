@@ -17,11 +17,12 @@ export function Testimonials() {
 
             <p className="mt-6 max-w-5xl text-sm leading-relaxed text-gray-700 md:text-base">
               At Simply Hair, we pride ourselves on delivering exceptional
-              service and unparalleled results. But don't just take our word for
-              it. Dive into the experiences and stories shared by our valued
-              clients. Whether you're a regular or considering your first visit,
-              these reviews will give you a taste of the Simply Hair difference.
-              Join our growing family and let us be a part of your beauty story.
+              service and unparalleled results. But don&apos;t just take our
+              word for it. Dive into the experiences and stories shared by our
+              valued clients. Whether you&apos;apos;re a regular or considering
+              your first visit, these reviews will give you a taste of the
+              Simply Hair difference. Join our growing family and let us be a
+              part of your beauty story.
             </p>
           </div>
 
@@ -105,8 +106,8 @@ export function Testimonials() {
                   Wow, what a find! I popped into Simply Hair on a whim and was
                   blown away. The staff made me feel right at home, and my
                   stylist, Jess, worked wonders on my unruly curls. The products
-                  they used smelled divine and felt so natural. I'm definitely
-                  making this my go-to spot in Phoenix!
+                  they used smelled divine and felt so natural. I&apos;m
+                  definitely making this my go-to spot in Phoenix!
                 </p>
               </div>
             </div>
@@ -170,10 +171,10 @@ export function Testimonials() {
 
                 <p className="mt-4 text-sm leading-relaxed text-gray-700 md:text-base">
                   I had my reservations about trying a new salon, but a friend
-                  recommended Simply Hair, and I'm so glad she did! The ambiance
-                  was so relaxing, and the team was super friendly. Plus, my
-                  hair has never looked better. Shoutout to Nikki for the
-                  fantastic color job!
+                  recommended Simply Hair, and I&apos;m so glad she did! The
+                  ambiance was so relaxing, and the team was super friendly.
+                  Plus, my hair has never looked better. Shoutout to Nikki for
+                  the fantastic color job!
                 </p>
               </div>
             </div>
@@ -239,8 +240,8 @@ export function Testimonials() {
                   Just had the best day at Simply Hair! I went in for a simple
                   trim but left feeling like a whole new person. The products
                   they used felt so good, and I appreciate their focus on clean
-                  beauty. Also, the coffee they served? Top-notch. Can't wait to
-                  come back next month!
+                  beauty. Also, the coffee they served? Top-notch. Can&apos;t
+                  wait to come back next month!
                 </p>
               </div>
             </div>
