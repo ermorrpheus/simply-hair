@@ -2,11 +2,14 @@
 
 import Image from "next/image";
 import Link from "next/link";
+import { useRouter } from 'next/navigation';
 import { useEffect, useState } from "react";
 
 export function Navbar() {
   const [isScrolled, setIsScrolled] = useState(false);
   const [isMenuOpen, setIsMenuOpen] = useState(false);
+
+  const router = useRouter();
 
   useEffect(() => {
     function handleScroll() {
@@ -109,6 +112,10 @@ export function Navbar() {
                 <Link
                   className="block py-2 text-gray-500 transition hover:text-gray-500/75"
                   href="/about"
+                  onClick={() => {
+                    router.push('/about')
+                    setIsMenuOpen(false)
+                  }}
                 >
                   About Us
                 </Link>
@@ -118,6 +125,10 @@ export function Navbar() {
                 <Link
                   className="block py-2 text-gray-500 transition hover:text-gray-500/75"
                   href="/services"
+                  onClick={() => {
+                    router.push('/services')
+                    setIsMenuOpen(false)
+                  }}
                 >
                   Services
                 </Link>
@@ -127,6 +138,10 @@ export function Navbar() {
                 <Link
                   className="block py-2 text-gray-500 transition hover:text-gray-500/75"
                   href="/testimonials"
+                  onClick={() => {
+                    router.push('/testimonials')
+                    setIsMenuOpen(false)
+                  }}
                 >
                   Testimonials
                 </Link>
@@ -136,6 +151,10 @@ export function Navbar() {
                 <Link
                   className="mt-4 block w-auto rounded bg-black px-6 py-2.5 text-sm font-medium text-white shadow hover:bg-black/80 focus:outline-none focus:ring active:scale-95"
                   href="/contact"
+                  onClick={() => {
+                    router.push('/contact')
+                    setIsMenuOpen(false)
+                  }}
                 >
                   Contact Us
                 </Link>
