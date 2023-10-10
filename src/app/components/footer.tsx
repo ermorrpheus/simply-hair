@@ -54,7 +54,7 @@ export function Footer() {
         </div>
 
         <p className="mt-12 text-center text-xs text-gray-500">
-          Copyright &copy; 2023. All rights reserved.
+          Copyright &copy; 2023. All rights reserved. Crafted by Ethan Morris.
         </p>
       </div>
     </footer>
